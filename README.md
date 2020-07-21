@@ -6,4 +6,4 @@ I am **Gabriel Timba** web developer, here some things to know abaut me:
 - 👯 I’m looking to collaborate on ... Nodejs
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/gabriel-arao-a78043183/)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/gabriel-arao-a78043183/){:target="_blank"}
