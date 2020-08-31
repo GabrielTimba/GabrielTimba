@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Gabriel Timba** web developer, here some things to know abaut me: 
+I am **Gabriel Timba** web developer, here some things to know about me: 
 - 🔭 I’m currently working on ... Making customers happy
 - 🌱 I’m currently learning ... Reactjs and Nodejs
 - 👯 I’m looking to collaborate on ... Nodejs
