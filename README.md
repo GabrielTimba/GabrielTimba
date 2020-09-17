@@ -11,6 +11,10 @@
 </p>
 
 <p align="left">
+  🔥 interested to learn: <strong>React Native</strong>
+</p>
+
+<p align="left">
 📫  Want to talk to me? Send me a message on one of these social media below
 </p>
 
