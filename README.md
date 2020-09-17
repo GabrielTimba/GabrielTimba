@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/GabrielTimba/GabrielTimba/master/img/workplace2.png" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/GabrielTimba/GabrielTimba/master/img/workplace.jpeg" width="250"/>
 
 ### Hi there! Welcome to my profie 👋
 <p align="left">
