@@ -1,7 +1,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/GabrielTimba/GabrielTimba/master/img/workplace.jpeg" width="250"/>
 
-### Hi there! Welcome to my profie 👋
+### Hi there! Welcome to my profile 👋
 <p align="left">
   I am Gabriel Timba <strong>web developer</strong>
 </p>
