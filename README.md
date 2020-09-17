@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>Reactjs, Javascript ,Typescripe,Nodejs and PHP.</strong>
+  💻 Skills: <strong>Reactjs, Javascript ,Typescript,Nodejs and PHP.</strong>
 </p>
 
 <p align="left">
